@@ -2,6 +2,6 @@ a{color: palegreen; Display: block !important;}
 a:active{color: rosybrown; background-color: black;}
 a:hover{background-image: linear-gradient (blue, yellow); text-transform: uppercase;}
 .topnav{color:pink;}
-.ulnav{color:darkorange; Display: inline-block; list-style: none;}
+.ulnav{color:darkorange; list-style: none; float: right}
 .itemLink{color: darkred; Display: inline-block}
-.aitemLink{color: darkslateblue;}
+.aitemLink{color: darkslateblue; Display: block; padding: 5px; margin: 10px; line-height: 20px; font-size: 20px; background-color: deeppink;}
