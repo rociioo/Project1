@@ -4,7 +4,6 @@ a {
 }
 a:active {
   color: rosybrown;
-  background-color: black;
 }
 a:hover {
   background-image: linear-gradient (blue, yellow);
@@ -21,4 +20,8 @@ a:hover {
 .itemLink {
   color: darkred;
   display: inline-block;
+  background-color: mediumseagreen;
+}
+.itemLink.dropdown {
+
 }
