@@ -15,7 +15,7 @@ a:hover {
 .ulnav {
   color: darkorange;
   list-style: none;
-  float: right;
+  float: left;
 }
 .itemLink {
   color: darkred;
