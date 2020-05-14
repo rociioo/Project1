@@ -1,3 +1,4 @@
+
 a {
   color: palegreen;
   display: block !important;
@@ -31,5 +32,14 @@ a:hover {
   position: absolute;
   display:none;
   box-shadow: 0px 8px 16px 0px rgba(red, green, blue, alpha);
-
+}
+div {
+  color: black;
+  text-shadow: 5px 5px 5px cornflowerblue;
+  font-family: Amatic+SC;
+}
+.pcolor{
+  color: dodgerblue;
+  text-shadow: 10px 10px 10px;
+  font-size: Indie+Flower;
 }
