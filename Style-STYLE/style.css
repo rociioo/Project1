@@ -34,12 +34,12 @@ a:hover {
   box-shadow: 0px 8px 16px 0px rgba(red, green, blue, alpha);
 }
 div {
-  color: black;
+  color: darkmagenta;
   text-shadow: 5px 5px 5px cornflowerblue;
-  font-family: Amatic+SC;
+  font-family: 'Amita', cursive;
 }
 .pcolor{
-  color: dodgerblue;
+  color: rgb(87, 50, 104);
   text-shadow: 10px 10px 10px;
-  font-size: Indie+Flower;
+  font-size: 'Megrim', cursive;
 }
