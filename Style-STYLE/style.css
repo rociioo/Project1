@@ -36,10 +36,13 @@ a:hover {
 div {
   color: darkmagenta;
   text-shadow: 5px 5px 5px cornflowerblue;
-  font-family: 'Amita', cursive;
+  font-family: 'Amita';
 }
 .pcolor{
   color: rgb(87, 50, 104);
   text-shadow: 10px 10px 10px;
-  font-size: 'Megrim', cursive;
+  font-family: 'Megrim';
+}
+body{
+  background-image: url('pics/english.jpeg');
 }
