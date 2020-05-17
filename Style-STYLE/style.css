@@ -32,17 +32,18 @@ a:hover {
   position: absolute;
   display:none;
   box-shadow: 0px 8px 16px 0px rgba(red, green, blue, alpha);
+  font-family: 'Frijole';
 }
 div {
   color: darkmagenta;
   text-shadow: 5px 5px 5px cornflowerblue;
-  font-family: 'Amita';
+  font-family: 'Sue Ellen Francisco';
 }
 .pcolor{
   color: rgb(87, 50, 104);
   text-shadow: 10px 10px 10px;
-  font-family: 'Megrim';
+  font-family: 'Crafty Girls';
 }
-body{
-  background-image: url('pics/english.jpeg');
+body style{
+  background-image: url ('/pics/english.jpeg/');
 }
