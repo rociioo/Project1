@@ -14,36 +14,49 @@ a:hover {
   color: pink;
 }
 .ulnav {
-  color: darkorange;
+  color: rgb(244, 252, 134);
   list-style: none;
   float: left;
 }
 .itemLink {
   color: darkred;
   display: inline-block;
-  background-color: mediumseagreen;
+  background-color: rgb(236, 126, 190);
+  font-family: 'Finger Paint';
+  font-size: 16px;
 }
 .dropdown{
   position: relative;
   display: inline-block;
+  cursor: pointer;
+  
 }
 .dropdown-content {
-  background-color: goldenrod;
+  background-color: gray;
   position: absolute;
   display:none;
   box-shadow: 0px 8px 16px 0px rgba(red, green, blue, alpha);
-  font-family: 'Frijole';
+  font-family: 'Finger Paint';
+  font-size: 14px;
 }
 div {
   color: darkmagenta;
-  text-shadow: 5px 5px 5px cornflowerblue;
-  font-family: 'Sue Ellen Francisco';
+  text-shadow: 20px 20px 20px cornflowerblue;
+  font-family: 'Delius Swash Caps';
+  font-size: 16px;
 }
 .pcolor{
   color: rgb(87, 50, 104);
-  text-shadow: 10px 10px 10px;
+  text-shadow: 25px 25px 25px;
   font-family: 'Crafty Girls';
+  font-size: 20px;
+  box-shadow: 5px 5px 5px 5px rgb(7, 7, 7);
+  font-weight: bold;
 }
-body style{
-  background-image: url ('/pics/english.jpeg/');
+body{
+  background-image: url('/pics/english.JPEG');
+  background-repeat: inherit;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
 }
