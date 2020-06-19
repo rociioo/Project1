@@ -1,6 +1,6 @@
 
 a {
-  color: palegreen;
+  color: black;
   display: block !important;
 }
 a:active {
@@ -60,3 +60,11 @@ body{
 .dropdown:hover .dropdown-content {
   display: block;
 }
+table, th, td{
+  border: 2px solid salmon;
+  border-collapse: collapse;
+  background-color: tan;
+  font-family: 'Indie Flower';
+}
+th, td {
+  padding: 10px;
