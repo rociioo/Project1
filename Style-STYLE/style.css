@@ -68,3 +68,7 @@ table, th, td{
 }
 th, td {
   padding: 10px;
+}
+table.left{
+  margin-left: auto;
+}
