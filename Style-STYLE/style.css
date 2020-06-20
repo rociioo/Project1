@@ -2,6 +2,8 @@
 a {
   color: black;
   display: block !important;
+  font-size: 30px;
+  box-shadow: 10px 10px 10px 10px darkcyan;
 }
 a:active {
   color: rosybrown;
@@ -64,11 +66,13 @@ table, th, td{
   border: 2px solid salmon;
   border-collapse: collapse;
   background-color: tan;
-  font-family: 'Indie Flower';
+  font-family: "Indie Flower";
 }
 th, td {
   padding: 10px;
 }
-table.left{
-  margin-left: auto;
+table.caption {
+  color: black;
+  box-shadow: 10px 10px 10px 10px crimson; 
+  font-size: 20px;
 }
