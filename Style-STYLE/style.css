@@ -76,10 +76,6 @@ table.caption {
   box-shadow: 10px 10px 10px 10px crimson; 
   font-size: 20px;
 }
-table.bcolor{
-  border-collapse: collapse;
-  vertical-align: inherit;
-}
 #pip{
   color:blue;
   font-weight: bold;
