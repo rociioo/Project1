@@ -71,6 +71,7 @@ table, th, td{
 th, td {
   padding: 10px;
 }
+
 table.caption {
   color: black;
   box-shadow: 10px 10px 10px 10px crimson; 
@@ -80,6 +81,7 @@ table.caption {
   color:blue;
   font-weight: bold;
   display:initial;
+  width: 50px;
 }
 #pup{
   color: blue;
