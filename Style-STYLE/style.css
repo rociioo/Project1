@@ -71,42 +71,15 @@ table, th, td{
 th, td {
   padding: 10px;
 }
-
 table.caption {
   color: black;
   box-shadow: 10px 10px 10px 10px crimson; 
   font-size: 20px;
 }
-#pip{
+#pip, #pup, #pap, #pep, #ppp, #ptp{
   color:blue;
   font-weight: bold;
   display:initial;
-  width: 50px;
-}
-#pup{
-  color: blue;
-  font-weight: bold;
-  display: initial;
-}
-#pap{
-  color: blue;
-  font-weight: bold;
-  display: initial;
-}
-#pep{
-  color: blue;
-  font-weight: bold;
-  display: initial;
-}
-#ppp{
-  color: blue;
-  font-weight: bold;
-  display: initial;
-}
-#ptp{
-  color: blue;
-  font-weight: bold;
-  display: initial;
 }
 #ma{
   color: darkred;
