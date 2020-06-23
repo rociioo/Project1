@@ -76,169 +76,29 @@ table.caption {
   box-shadow: 10px 10px 10px 10px crimson; 
   font-size: 20px;
 }
-#pip, #pup, #pap, #pep, #ppp, #ptp{
+.puup{
   color:blue;
   font-weight: bold;
-  display:initial;
+  font-size: 20px;
+  display:inline-block;
+
 }
-#ma{
+.mam{
   color: darkred;
   font-weight: bold;
+  font-size: 20px;
   display: initial;
 }
-#pop{
-  color: darkred;
-  font-weight: bold;
-  display: initial;
-}
-#mi{
-  color: darkred;
-  font-weight: bold;
-  display: initial;
-}
-#mu{
-  color: darkred;
-  font-weight: bold;
-  display: initial;
-}
-#te{
+.teet{
   color:orangered;
   font-weight: bold;
+  font-size: 20px;
   display: initial;
 }
-#ti{
-  color:orangered;
-  font-weight: bold;
-  display: initial;
-}
-#to{
-  color:orangered;
-  font-weight: bold;
-  display: initial;
-}
-#de{
+.deed{
   color:purple;
   font-weight: bold;
-  display: initial;
-}
-#du{
-  color:purple;
-  font-weight: bold;
-  display: initial; 
-}
-#di{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#da{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#dd{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#we{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#wu{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#wi{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#wo{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#wa{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#re{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#ru{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#ri{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#ro{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#ra{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#ce{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#cu{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#ci{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#co{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#ca{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#se{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#su{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#si{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#so{
-  color:purple;
-  font-weight: bold;
-  display: initial;
-}
-#sa{
-  color:purple;
-  font-weight: bold;
+  font-size: 20px;
   display: initial;
 }
 
