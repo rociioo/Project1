@@ -9,14 +9,14 @@ a:active {
   color: rosybrown;
 }
 a:hover {
-  background-image: linear-gradient (blue, yellow);
+  background-image: linear-gradient (blue,black);
   text-transform: uppercase;
 }
 .topnav {
   color: pink;
 }
 .ulnav {
-  color: rgb(244, 252, 134);
+  color: black
   list-style: none;
   float: left;
 }
@@ -63,11 +63,11 @@ body{
   display: block;
 }
 table, th, td{
+  color: black;
   border: 2px solid salmon;
   border-collapse: collapse;
   font-family: "Indie Flower";
   padding: 10px;
-  text-decoration-color: black;
 }
 
 table.caption {
@@ -76,10 +76,10 @@ table.caption {
   font-size: 20px;
 }
 .puup{
-  color:blue;
+  color:darkblue;
   font-weight: bold;
   font-size: 20px;
-  display:inline-block;
+  display: initial;
 
 }
 .mam{
@@ -105,10 +105,8 @@ table.caption {
   font-weight: bold;
   font-size: 20px;
   display: initial;
-
 }
-.box{
-  display: flex;
-  align-items: center;
+.xx{
+  color:black;
+  font-size: 30px;
 }
-
