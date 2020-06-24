@@ -65,12 +65,11 @@ body{
 table, th, td{
   border: 2px solid salmon;
   border-collapse: collapse;
-  background-color: tan;
   font-family: "Indie Flower";
-}
-th, td {
   padding: 10px;
+  text-decoration-color: black;
 }
+
 table.caption {
   color: black;
   box-shadow: 10px 10px 10px 10px crimson; 
@@ -106,5 +105,10 @@ table.caption {
   font-weight: bold;
   font-size: 20px;
   display: initial;
+
+}
+.box{
+  display: flex;
+  align-items: center;
 }
 
