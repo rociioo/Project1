@@ -78,7 +78,7 @@ table.caption {
   color:darkblue;
   font-weight: bold;
   font-size: 20px;
-  display: initial;
+  display: flex;
   font-family: "Indie Flower";
 
 }
