@@ -40,9 +40,9 @@ a:hover {
   font-family: 'Finger Paint';
   font-size: 14px;
 }
-div {
-  color: darkmagenta;
-  text-shadow: 20px 20px 20px cornflowerblue;
+.hj {
+  color: darkred;
+  text-shadow: 20px 20px 20px red;
   font-family: 'Delius Swash Caps';
   font-size: 16px;
 }
@@ -67,8 +67,8 @@ table, th, td{
   border-collapse: collapse;
   font-family: "Indie Flower";
   padding: 10px;
+  display: inline-flex;
 }
-
 table.caption {
   color: black;
   box-shadow: 10px 10px 10px 10px crimson; 
@@ -78,8 +78,8 @@ table.caption {
   color:darkblue;
   font-weight: bold;
   font-size: 20px;
-  display: flex;
   font-family: "Indie Flower";
+  display: inline-flex;
 
 }
 .mam{
