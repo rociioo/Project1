@@ -40,7 +40,7 @@ a:hover {
   font-family: 'Finger Paint';
   font-size: 14px;
 }
-.hj {
+h1{
   color: darkred;
   text-shadow: 20px 20px 20px red;
   font-family: 'Delius Swash Caps';
@@ -74,12 +74,12 @@ table.caption {
   box-shadow: 10px 10px 10px 10px crimson; 
   font-size: 20px;
 }
-.puup{
-  color:darkblue;
+div .puup{
+  color: purple;
   font-weight: bold;
   font-size: 20px;
   font-family: "Indie Flower";
-  display: inline-flex;
+  display: inline;
 
 }
 .mam{
