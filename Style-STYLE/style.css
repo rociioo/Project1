@@ -1,15 +1,14 @@
-
 a {
   color: black;
-  display: block !important;
-  font-size: 30px;
-  box-shadow: 10px 10px 10px 10px darkcyan;
+  display: block;
+  font-size: 20px;
+  box-shadow: 3px 3px 3px 3px lightgrey;
 }
 a:active {
   color: rosybrown;
 }
 a:hover {
-  background-image: linear-gradient(blue, yellow); 
+  background-image: linear-gradient(grey white)); 
   text-transform: uppercase;
 }
 .topnav {
@@ -18,14 +17,14 @@ a:hover {
 .ulnav {
   color: teal;
   list-style: none;
-  float: left;
+  float: right;
 }
 .itemLink {
   color: darkred;
   display: inline-block;
   background-color: rgb(236, 126, 190);
   font-family: 'Finger Paint';
-  font-size: 16px;
+  font-size: 8px;
 }
 .dropdown{
   position: relative;
@@ -33,18 +32,18 @@ a:hover {
   cursor: pointer;  
 }
 .dropdown-content {
-  background-color: rgb(65, 241, 241);
+  background-color:grey;
   position: absolute;
   display: none;
-  box-shadow: 0px 8px 16px 0px rgba(red, green, blue, alpha);
+  box-shadow: 0px 8px 16px 0px;
   font-family: 'Finger Paint';
-  font-size: 14px;
+  font-size: 8px;
 }
 h1{
   color: darkred;
-  text-shadow: 20px 20px 20px red;
+  text-shadow: 20px 20px 20px black;
   font-family: 'Delius Swash Caps';
-  font-size: 16px;
+  font-size: 10px;
 }
 .pcolor{
   color: rgb(87, 50, 104);
@@ -67,11 +66,21 @@ table, th, td{
   border-collapse: collapse;
   font-family: "Indie Flower";
   padding: 10px;
+  background: lightpink;
 }
-table.caption {
+h1, .tt {
   color: black;
   box-shadow: 10px 10px 10px 10px crimson; 
+  font-size: 30px;
+}
+div, .kl{
+  color: deeppink;
   font-size: 20px;
+  font-weight: bold;
+  display: inline;
+}
+table, .qa{
+  float: central;
 }
 div, .pi{
   color: purple;
@@ -103,14 +112,17 @@ div, .deed{
   font-size: 20px;
   display: initial;
 }
-.xx{
+h1, .xx{
   color:black;
   font-size: 30px;
 }
-.fdf{
+h3, .xxe{
+  font-size: 25px;
+}
+h1, .fdf{
   color: black;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 30px;
 }
 .gt{
   color:black;
