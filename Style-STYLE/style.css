@@ -67,38 +67,35 @@ table, th, td{
   border-collapse: collapse;
   font-family: "Indie Flower";
   padding: 10px;
-  display: inline-flex;
 }
 table.caption {
   color: black;
   box-shadow: 10px 10px 10px 10px crimson; 
   font-size: 20px;
 }
-div .puup{
+div, .pi{
   color: purple;
-  font-weight: bold;
   font-size: 20px;
-  font-family: "Indie Flower";
+  font-weight: bold;
   display: inline;
-
 }
-.mam{
+div, .mam{
   color: darkred;
   font-weight: bold;
   font-size: 20px;
-  display: initial;
+  display: inline;
 }
-.teet{
-  color:orangered;
+div, .teet{
+  color:darkslateblue;
   font-weight: bold;
   font-size: 20px;
-  display: initial;
+  display: inline;
 }
-.deed{
-  color:purple;
+div, .deed{
+  color:  sienna;
   font-weight: bold;
   font-size: 20px;
-  display: initial;
+  display: inline;
 }
 .eep{
   color:seagreen;
