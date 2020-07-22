@@ -1,3 +1,6 @@
+
+/*Global Style
+-------------------------------------------------------------------------*/
 a {
   color: black;
   display: block;
@@ -8,7 +11,7 @@ a:active {
   color: rosybrown;
 }
 a:hover {
-  background-image: linear-gradient(grey white)); 
+  background-image: linear-gradient(grey white); 
   text-transform: uppercase;
 }
 .topnav {
@@ -18,6 +21,7 @@ a:hover {
   color: teal;
   list-style: none;
   float: right;
+  margin-right:2px;
 }
 .itemLink {
   color: darkred;
@@ -43,7 +47,7 @@ h1{
   color: darkred;
   text-shadow: 20px 20px 20px black;
   font-family: 'Delius Swash Caps';
-  font-size: 10px;
+  font-size: 20px;
 }
 .pcolor{
   color: rgb(87, 50, 104);
@@ -60,6 +64,9 @@ body{
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+/*Tabla General
+-------------------------------------------------------------------------*/
 table, th, td{
   color: black;
   border: 2px solid salmon;
@@ -68,10 +75,19 @@ table, th, td{
   padding: 10px;
   background: lightpink;
 }
-h1, .tt {
+
+/*Pasado Simple
+-------------------------------------------------------------------------*/
+#h1, .fd{
   color: black;
-  box-shadow: 10px 10px 10px 10px crimson; 
+  font-weight: bold;
   font-size: 30px;
+  font-family: "Comic Neue";
+}
+#h2, .ds {
+  color: black;
+  font-size: 25px;
+  font-family: "Comic Neue";
 }
 div, .kl{
   color: deeppink;
@@ -82,51 +98,95 @@ div, .kl{
 table, .qa{
   float: central;
 }
-div, .pi{
+#h1, .tt {
+  color: black; 
+  font-size: 30px;
+  font-family: "Comic Neue";
+}
+
+/*Presente Simple
+-------------------------------------------------------------------------*/
+#h1, .xx {
+  color: black;
+  font-size: 30px;
+  font-family: "Comic Neue";
+}
+#h2, .bv {
+  color: black;
+  font-size: 25px;
+  font-family: "Comic Neue";
+}
+#h3, .xxe {
+  font-size: 25px;
+  font-family: "Comic Neue";
+}
+#h4, .gt {
+  color:black;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Comic Neue";
+}
+div, .pi {
   color: purple;
   font-size: 20px;
   font-weight: bold;
   display: inline;
 }
-div, .mam{
+div, .mam {
   color: darkred;
   font-weight: bold;
   font-size: 20px;
   display: inline;
 }
-div, .teet{
+div, .teet {
   color:darkslateblue;
   font-weight: bold;
   font-size: 20px;
   display: inline;
 }
-div, .deed{
+div, .deed {
   color:  sienna;
   font-weight: bold;
   font-size: 20px;
   display: inline;
 }
-.eep{
+
+/*Futuro Simple
+-------------------------------------------------------------------------*/
+#h1, .ruum {
+  color: black;
+  font-size: 30px;
+  font-family: "Comic Neue";
+}
+#h2, .hj {
+  color: black;
+  font-size: 30px;
+  font-family: "Comic Neue";
+}
+#h3, .mk {
+  color: black;
+  font-size: 25px;
+  font-family: "Comic Neue";
+}
+div, .eep {
   color:seagreen;
   font-weight: bold;
   font-size: 20px;
   display: initial;
 }
-h1, .xx{
-  color:black;
-  font-size: 30px;
-}
-h3, .xxe{
-  font-size: 25px;
-}
-h1, .fdf{
+div, .yt {
   color: black;
-  font-weight: bold;
-  font-size: 30px;
+  font-size: 20px;
+  font-family: "Comic Neue";
 }
-.gt{
-  color:black;
+div, .gb {
+  color: black;
+  font-size: 20px;
+  font-family: "Comic Neue";
+}
+div, .sz {
+  color: darkslateblue;
   font-weight: bold;
-  font-size: 25px;
-  font-family: "Frescas";
+  font-size: 20px;
+  display: initial;
 }
