@@ -16,12 +16,15 @@ a:hover {
 }
 .topnav {
   color: pink;
+  display: inline;
 }
 .ulnav {
   color: teal;
-  list-style: none;
+  list-style-type: none;
   float: right;
-  margin-right:2px;
+  padding: 0px;
+  margin: initial;
+  padding-top: 0px;
 }
 .itemLink {
   color: darkred;
