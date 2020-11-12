@@ -58,7 +58,7 @@ h1{
   font-weight: bold;
 }
 body{
-  background-image: url('/pics/english.JPEG');
+  background-image: url('/pics/background.JPG');
   background-repeat: inherit;
 }
 .dropdown:hover .dropdown-content {
@@ -74,6 +74,9 @@ table, th, td{
   font-family: "Indie Flower";
   padding: 10px;
   background: lightpink;
+}
+#table, .qa{
+  float: right;
 }
 
 /*Pasado Simple
